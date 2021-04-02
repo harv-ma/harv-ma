@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
 	<h1>Hi</h1>
 	<img src="https://tenor.com/view/jake-peralta-holt-brooklyn-ninenine-gif-13193197.gif">
 	<p>
