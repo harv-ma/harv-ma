@@ -1,4 +1,4 @@
 <div>
-	<iframe src="https://github.com/harv-ma/harv-ma/test.htm" style="border:none;" title="Iframe Test"></iframe>
+	<img src="./yes.jpg" alt="Cat"></img>
 </div>
 
